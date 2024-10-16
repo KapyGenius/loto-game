@@ -1,6 +1,6 @@
 # Loto Game
 
-This is a simple JavaFX project for a Loto game, built using Maven. The project was first coded by Kapygenius in 2017 while learning Java, In my free time I will try to update it, but you are welcome to also make PR and I will review it.
+This is a JavaFX project for a Loto game, built using Maven. The project was first coded by Kapygenius in 2017 while learning Java, In my free time I will try to update it, but you are welcome to also make PR and I will review it.
 
 ## Prerequisites
 
